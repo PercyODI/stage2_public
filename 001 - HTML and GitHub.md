@@ -52,5 +52,14 @@ For our first feature, we need the following requirements satisfied:
     - How and why section for potential grill renters
 1. Use at least two more HTML tags that were not used in the previous requirements. Might I suggest the hr tag?
 
+
+**New Requirement**: Marketing wants to get a sense of who is interested in GrillBer technology. We need a form at the bottom of the page for people to fill out. They need to be able to input:
+    - Their name
+    - Their email address
+    - Their phone number
+    - How likely they are to recommend GrillBer to a friend (only allow numbers)
+
+There will also need to be a submit button, and all of this belongs in a form that looks good. (Don't worry about what to do with the data. Just let people type it in!)
+
 ## Additional Resources
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
