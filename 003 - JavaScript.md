@@ -35,6 +35,7 @@ We would like you to build a to-do app in HTML, CSS, and JavaScript! It needs to
 1. Allow users to un-complete a completed to-do item
 1. Allow users to delete any to-do item
 1. Allow users to create a new user 
+1. Allow users to assign and reassign users to a to-do item
 1. All actions should be done through the API, so changes are persisted.
 1. Show the list of items left to do
 1. Show the list of items that have been completed
@@ -46,3 +47,11 @@ We would like you to build a to-do app in HTML, CSS, and JavaScript! It needs to
     - items should change when you hover over them!
 1. Give it a GrillTec inspired name. Marketing is out doing research and aren't available to name this product!
 1. Make sure the application is up and running on GitHub Pages!
+
+## Inspiration:
+
+![](https://get.todoist.help/hc/article_attachments/360000126679/Today_Priority.png)
+
+![](https://cdn.makeuseof.com/wp-content/uploads/2017/01/GoogleKeepCollaborateUpdate-web.png?856a97)
+
+![](https://d2gn4xht817m0g.cloudfront.net/p/media_uploads/images/original/000/519/373/519373-5613489068a1237d29059bf48b8a96daf0b32587.png?1566486780)
